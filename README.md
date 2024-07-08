@@ -1,4 +1,4 @@
-A feladatleírás a félévi projektre:
+A feladatleírás a félévi projektre: (2024)
 Bevezetés
 Ebben a projektben egy többfelhasználós TODO lista megvalósítása a feladat. Ehhez különféle task-ok kezelését kell megoldani egy központi szerverhez kapcsolódó klienseken keresztül. A task-okat kell tudni kategorizálni, a felhasználóknak kezelni kell a jogkörét, csoportokhoz való tartozását.
 
